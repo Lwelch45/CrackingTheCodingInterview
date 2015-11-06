@@ -1,0 +1,1 @@
+These are my solutions to the latest version of Cracking The Coding interview. I use these three languages the most at work so im going through the book just to stay sharp. Feel free to submit pull requests if anything looks incorrect.
